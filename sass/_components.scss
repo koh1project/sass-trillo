@@ -365,7 +365,9 @@
     margin-right: auto;
   }
 
-  &__friends {}
+  &__friends {
+    display: flex;
+  }
 
   &__photo {
     box-sizing: content-box;
